@@ -1,4 +1,5 @@
-
+## Install Python
+`sudo apt install python3`
 
 ## Install pip
 `sudo apt install python3-pip`
